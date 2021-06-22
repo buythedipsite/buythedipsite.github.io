@@ -712,6 +712,13 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+  .center-road {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
 }
 
 /*--------------------------------------------------------------
